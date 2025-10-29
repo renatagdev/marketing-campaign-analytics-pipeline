@@ -1,6 +1,6 @@
 # 📊 Marketing Campaign Analytics Pipeline
 
-This project shows how to automatically clean, process, and visualize marketing data — from an uploaded Excel file all the way to a live Power BI dashboard.
+This project shows how to automatically clean, process, and visualize marketing data, from an uploaded Excel file all the way to a live Power BI dashboard.
 
 ## 🔧 Tech Stack
 
